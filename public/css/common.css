@@ -1,0 +1,10 @@
+html, body {
+    height: auto;
+}
+.invalid-feedback {
+    color: red;
+}
+.error {
+    border-color: red;
+    color: red;
+}
